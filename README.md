@@ -38,4 +38,11 @@ SELECT A,B,C
 WHERE A >B
 
 ```
+### Visualization
+
+<img width="524" height="381" alt="Pi images" src="https://github.com/user-attachments/assets/d2666648-6c01-44e3-9991-b431526f8636" />
+
+___
+<img width="596" height="335" alt="bar images" src="https://github.com/user-attachments/assets/de353d76-0fc5-4f90-a9a6-715817b3bd64" />
+
 
